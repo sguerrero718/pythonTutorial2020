@@ -5,7 +5,7 @@
 import lib
 import loyalty
 # importing a class from a module and assigning alias
-#from Shockwave import ShockwaveClass as sw
+from Shockwave import ShockwaveClass as sw
 
 print('starting py code')
 print("")
